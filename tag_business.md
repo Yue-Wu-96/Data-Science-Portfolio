@@ -13,7 +13,7 @@ jupyter:
     name: python3
 ---
 
-# Tag Products for E-commerce -- text
+# Tag Products for E-commerce -- text - text sgc in github
 
 ### Libraries & Keyword:
 
