@@ -15,7 +15,7 @@ Visualize crime spots and find a safe home.
 - `folium`, `geopandas`, `pandas`
 ---
 
-#### Tip: Remember to zoom-in, zoom-out, hover, and click map points to see what will happen : ) - Yue
+#### Tip: Zoom-in, zoom-out, hover, and click map points to see what will happen.
 
 
 ## Load Data
