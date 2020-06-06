@@ -7,8 +7,15 @@ This is a series of Python Jupyter Notebooks for data analytics. Topics include:
 * Folium Maps
 * Web Scraping and text analysis.
 
-Please __view live notebook via NBviewer__:
+### View live Notebook in NBViewer
+
 https://nbviewer.jupyter.org/github/Yue-Wu-96/Data-Science-Portfolio/tree/master/
 
-For __pure code__, please find in corresponding `.md` file.
+### View Pure Code
+
+Please find corresponding `.md` file.
+
+### Visit My Portfolio Website:
+
+
 
