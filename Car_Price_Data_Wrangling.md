@@ -13,11 +13,6 @@ jupyter:
     name: python3
 ---
 
-import seaborn as sns
-# ^^^ pyforest auto-imports - don't write above this line
-# Car Price Data Wrangling
-
-
 ### Table of Content
 
 ---
